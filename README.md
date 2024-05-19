@@ -1,7 +1,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_Universidad_Politécnica_Salesiana_del_Ecuador.png" width="90%">
 
 
-<h2>minería de datos - Periodo 64 <br> ingeniería en ciencias de la Computación<h3>Estudiante: Andrés Alba </h3> </h2>
+<h2>Minería de datos - Periodo 64 <br> ingeniería en ciencias de la Computación<h3>Estudiante: Andrés Alba </h3> </h2>
 
 
 
